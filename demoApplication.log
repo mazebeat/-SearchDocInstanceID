@@ -1,0 +1,13 @@
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - INICIANDO APLICACION PARA BUSCAR DOCINSTANCE ID DENTRO DE ARCHIVOS LOGS
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - ARGUMENTOS UTILIZADOS EN LA CONSULTA
+ARGUMENTO 0 [DIR ENTRADA]: E:\LogRebotes\Fija
+ARGUMENTO 1 [DIR SALIDA]: E:\LogRebotes\Salida
+[main] DEBUG cl.intelidata.movistar.main.SearchDocInstanceID  - INICIANDO PROCESO
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - OBTENIENDO LISTADO DE ARCHIVOS DEL DIRECTORIO: E:\LogRebotes\Fija
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - LISTA DE ARCHIVOS A PROCESAR
+[E:\LogRebotes\Fija\RebotesFija_20150222.log]
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - PROCESANDO ARCHIVO: E:\LogRebotes\Fija\RebotesFija_20150222.log
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - DOCUMENTOS ENCONTRADOS: 723
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - DOCUMENTOS ENCONTRADOS SIN DATOS: 20 (SIN CODIGO DE ERROR NI DESCRIPCION
+[main] INFO  cl.intelidata.movistar.main.SearchDocInstanceID  - ARCHIVO GENERADO DE SALIDA: E:\LogRebotes\Salida\ResumeLogs.txt
+[main] DEBUG cl.intelidata.movistar.main.SearchDocInstanceID  - PROCESO FINALIZADO
